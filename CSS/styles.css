@@ -1,0 +1,14 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+h2 {
+    text-align: left;
+    font-style: inherit;
+}
+p {
+  font-family: sans-serif;
+}
+ul {
+  line-height: 40px;
+}
