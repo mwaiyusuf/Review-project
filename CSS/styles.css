@@ -29,4 +29,18 @@ img {
     width: 350px;
     float: left;
   }
-
+  .test-box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+  padding: 70px;
+  margin: 50px;
+  background-color: aqua;
+}
+.cats p {
+  background-color: coral;
+}
+.dogs p {
+  background-color: steelblue;
+}
